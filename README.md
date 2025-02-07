@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Sandeep
+👀 I’m interested in python developer
+🌱 I’m currently learning python
+💞️ I’m looking to collaborate on ...
+📫 How to reach me 9597752058
 
 <!--
 **sandeep-258/sandeep-258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
